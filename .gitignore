@@ -1,0 +1,5 @@
+.venv/
+work/
+clips/
+__pycache__/
+.pytest_cache/
