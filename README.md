@@ -32,3 +32,5 @@ As a Claude Code skill: open the repo in Claude Code and ask it to clip a stream
 
 **Clip responsibly:** only streamers who allow it (check their clipping policy or program), credit them, don't re-upload streams.
 Chat spikes are a good guess, not a guarantee: watch your clips before posting.
+
+MIT licensed: see `LICENSE`.
